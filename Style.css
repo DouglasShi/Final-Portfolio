@@ -139,6 +139,36 @@ body{
     scale: 0.65;
 }
 
+.down1{
+    position: absolute;
+    left: 200px;
+    top: 370px;
+    transform: scale(0.05);
+}
+
+.down2{
+    position: absolute;
+    left: 200px;
+    top: 1170px;
+    transform: scale(0.05);
+}
+
+.down3{
+    position: absolute;
+    left: 200px;
+    top: 1950px;
+    transform: scale(0.05);
+}
+
+.down4{
+    position: absolute;
+    left: 200px;
+    top: 2750px;
+    transform: scale(0.05);
+}
+
+
+
 .TitleSub1{
     position: absolute;
     width: 622px;
